@@ -1,0 +1,26 @@
+{
+  "name": "twitter2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/mern202201/twitter2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/mern202201/twitter2/issues"
+  },
+  "homepage": "https://gitlab.com/mern202201/twitter2#readme",
+  "dependencies": {
+    "async": "^3.2.4",
+    "express": "^4.18.1",
+    "express-async-handler": "^1.2.0",
+    "mysql2": "^2.3.3"
+  }
+}
